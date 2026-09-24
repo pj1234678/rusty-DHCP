@@ -17,6 +17,10 @@ A simple and zero-dependency DHCP server written in Rust, with credit to Richard
 
 ## Features
 
+- IPV6 support
+- NTP support
+- Highly performant. tested over 60k/s in DHCP requests
+- Fast negotiation DHCP option
 - Lightweight and minimalistic DHCP server.
 - Zero external dependencies; just Rust!
 - Easy to use and configure.
