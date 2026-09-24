@@ -1,5 +1,13 @@
 # RustyDHCP
 
+
+
+V2 HAS BEEN RELEASED 
+ipv6 and ntp and fast dhcp option is supported, hostnames are supported,
+Fixes for Nest thermostats
+Benchmarks added, significant performance uplifts in how many requests per second.
+
+
 ![Rust](https://img.shields.io/badge/Language-Rust-orange)
 ![Dependencies](https://img.shields.io/badge/Dependencies-None-brightgreen)
 ![Crossplatform](https://img.shields.io/badge/Crossplatform-Yes-brightgreen)
